@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-           22222frt323Edit <code>src/App.js</code> and save to reload test tes trt.
+           frt323Edit <code>src/App.js</code> and save to reload
         </p>
         <a
           className="App-link"
@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React 2 23 2344 2323 2323 kat
+          Learn React kat
         </a>
       </header>
     </div>
